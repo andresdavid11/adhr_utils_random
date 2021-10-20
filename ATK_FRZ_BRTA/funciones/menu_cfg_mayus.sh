@@ -1,0 +1,8 @@
+
+#Invertimos orden
+if [ $MAYUSCULAS = $OPT_ACTIVO ];then
+    MAYUSCULAS=$OPT_DESACTIVADO
+else
+    MAYUSCULAS=$OPT_ACTIVO
+fi
+

@@ -1,0 +1,10 @@
+# -PENDIENTES- #
+1. Poner en el visual ataque el tiempo trascurrido
+2. Cambiar los if autogenerados para que solo se genere un case en lugar de dos en los ataques de un solo hilo
+3. Revisar problematica con las horas cambiando de campo en el recorte entre el -f4 y el -f5
+
+# -REALIZADOS- #
+1. Empezando a llevar un registro de cambios (tarde pero mejor que nunca)
+2. Desarrollo del log
+3. Metida hora de inicio y finalizacion del ataque
+4. Resuelto el fin del proceso al acabar los hilos de probar contraseñas sin exito
